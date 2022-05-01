@@ -1,0 +1,35 @@
+body{
+    background: rgb(17,0,31);
+    background: linear-gradient(0deg, rgba(17,0,31,1) 0%, rgba(60,40,87,1) 100%);
+}
+
+#carrosseltela{
+    background-color: rgba(0, 0, 0, 0.47);
+}
+
+#carrossel{
+    background-color: rgba(0, 0, 0, 0.47);
+}
+
+#itensnav{
+    margin-left: 5%;
+}
+
+#jogosdestaq{
+    background-color: black;
+    padding: 3%;
+}
+
+#jogosdestaq a{
+    text-decoration: none;
+}
+
+.text-end p{
+    margin-bottom: -2%;
+}
+
+#footer{
+    background: rgb(42,31,78);
+    background: radial-gradient(circle, rgba(42,31,78,1) 0%, rgba(0,0,0,1) 100%); 
+    margin-bottom: 0% !important;
+}
